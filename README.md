@@ -8,7 +8,7 @@
 
 Haha, just joking.
 
-**For the sake of the competition, _please_ contribute!**
+**For the sake of the competition, _please_ contribute! (so that we can win the class league)**
 
 ## **Please help!**
 
