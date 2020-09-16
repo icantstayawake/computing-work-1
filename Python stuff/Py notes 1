@@ -1,0 +1,5 @@
+#Data types:
+- _Strings_:
+Anything betwen double "" or single '' quotes can be a string. Basically anything between quotes is counted as a string even if its an integer like "6".
+e.g. Favourite_Food = "Pepperoni Pizza"
+
